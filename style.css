@@ -117,25 +117,15 @@ color: #E0B612;
     color: #FF3C5F;
     margin-top: 10px;
 }
-/* #errorMsg{
-    display: none;
-}
 
-#successMsg{
-    display: none;
-}
-
-#genPin{
-    display: none;
-} */
 #warningErr{
     display: none;
 }
-#warningScc{
+#warningSuccess{
     display: none;
 }
 
-#warningGen{
+#warningGenerate{
 
     display: none;
 }
